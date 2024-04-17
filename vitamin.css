@@ -1,0 +1,40 @@
+h1{
+    text-align: center;
+    font-size: 40px;
+    text-decoration: overline;
+}
+
+h2{
+    color: blueviolet;
+    text-align: center;
+
+}
+
+h3{
+    color: yellowgreen;
+    text-decoration: underline;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.container1{
+    background-color: beige;
+}
+
+body{
+    background: url(Etelek_a_hallas_egeszsegeert_a_vitaminok_ereje.jpg);
+    margin-left: 300px;
+    margin-right: 300px;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
